@@ -1,0 +1,25 @@
+{
+  "name": "tele-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnnguyen-nodejs/tele-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnnguyen-nodejs/tele-bot/issues"
+  },
+  "homepage": "https://github.com/johnnguyen-nodejs/tele-bot#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.0",
+    "telegraf": "^3.36.0"
+  }
+}
